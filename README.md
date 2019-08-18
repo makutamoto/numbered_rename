@@ -16,6 +16,7 @@ Assuming your current working directory looks like above and if you run `./nrena
 └── 2.txt
 ```
 And you can specify prefixes and suffixes for new names by passing some arguments.
+
 License
 -----
 Numbered Rename is released under MIT License.
